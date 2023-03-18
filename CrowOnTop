@@ -1,0 +1,7 @@
+local BannedList = {
+'Yeetus',
+'YeetusMcprime',
+'Yeetus2'
+}
+
+return BannedList
