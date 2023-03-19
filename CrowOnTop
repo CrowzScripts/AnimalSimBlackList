@@ -3,6 +3,4 @@ local BannedList = {
 'YeetusMcprime',
 'Yeetus2',
 }
-
 return BannedList
-
