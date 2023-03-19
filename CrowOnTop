@@ -6,3 +6,7 @@ local BannedList = {
 }
 
 return BannedList
+
+
+
+print("hi")
